@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVTappable_Tests' do
+  pod 'JVTappable', :path => '../'
+  
+  
+end
