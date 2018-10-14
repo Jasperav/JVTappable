@@ -1,0 +1,16 @@
+PODS:
+  - JVTappable (0.1.0)
+
+DEPENDENCIES:
+  - JVTappable (from `../`)
+
+EXTERNAL SOURCES:
+  JVTappable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVTappable: 0d5e99f66c7f9eefd41113f657c7a5aeefb024dd
+
+PODFILE CHECKSUM: ea2ec57f2746eea55918608b654c3d72bb0e9775
+
+COCOAPODS: 1.6.0.beta.1
